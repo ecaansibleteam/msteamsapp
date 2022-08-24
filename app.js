@@ -25,7 +25,7 @@ http.createServer(function (request, response) {
                 var request = require('request');
                 var url = 'https://aap-controller-ansible-automation-platform.eca-5d3b077647f2e82a12132e1e840f7b71-0000.eu-de.containers.appdomain.cloud/api/v2/job_templates/94/launch/'
                 var user = 'admin';
-                var pass = 'password';
+                var pass = 'uFSYIYm3C9skHart7Khlhq9CepdNp5mA';
                 // Save these for future requests
                 var userId;
              	var options = {
